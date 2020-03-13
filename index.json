@@ -9,7 +9,7 @@
   },
   {
 	  "title": "donkey bitty",
-   	"folder": "Blink2",
+   	"folder": "Blink7",
    	"text": "this is the donkey program",
     "image": "bitty_electro.jpg",
    	"hex": "Blink2.ino.hex",
