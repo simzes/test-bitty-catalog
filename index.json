@@ -2,7 +2,6 @@
   {
 	  "title": "elephant bitty",
     "folder": "Blink",
-    "text": "this is the elephant program",
     "description": "description.md",
     "image": "bitty_Beach.jpg",
     "hex": "Blink.ino.hex",
@@ -11,7 +10,6 @@
   {
 	  "title": "donkey bitty",
    	"folder": "Blink2",
-   	"text": "this is the donkey program",
     "description": "description.md",
     "image": "bitty_electro.jpg",
    	"hex": "Blink2.ino.hex",
@@ -20,7 +18,6 @@
   {
     "title": "Red ThaddBASS",
     "folder": "Blink3",
-    "text": "this is the theremin program",
     "description": "description.md",
     "image": "bitty_konga.jpg",
     "hex": "Bitty_Red_ThaddBASS_2019_09_10_setkey.ino.leonardo.hex",
@@ -29,7 +26,6 @@
   {
     "title": "Red GuitarChord",
     "folder": "Blink4",
-    "text": "this is the violin program",
     "description": "description.md",
     "image": "bitty_lofi.jpg",
     "hex": "Bitty_Red_GuitarChord_ALT.ino.leonardo.hex",
@@ -38,7 +34,6 @@
   {
     "title": "Red DrumsTrap",
     "folder": "Blink5",
-    "text": "this is the cello program\nit blinks for one second",
     "description": "description.md",
     "image": "bitty_theremin.jpg",
     "hex": "Bitty_Red_DrumsTrap_09_16_2019.ino.leonardo.hex",
