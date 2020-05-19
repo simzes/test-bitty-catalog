@@ -1,4 +1,6 @@
-[
+{
+    "hash": "23444",
+    "catalog": [
   {
 	  "title": "elephant bitty",
     "folder": "Blink",
@@ -40,3 +42,4 @@
     "sha2_hash": "stuff"
   }
 ]
+}
