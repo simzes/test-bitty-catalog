@@ -1,42 +1,52 @@
+{
+  "version": "s",
+  "info": "basic.md",
+  "catalog":
 [
   {
-	  "title": "elephant bitty",
+	  "title": "Boom Bap Crunch",
     "folder": "Blink",
+    "text": "this is the elephant program",
     "description": "description.md",
     "image": "bitty_Beach.jpg",
-    "hex": "Blink.ino.hex",
+    "hex": "Bitty_Red_DrumsBoomBap_09_16_2019.ino.leonardo.hex",
     "sha2_hash": "ec5jku3..."
   },
   {
-	  "title": "donkey bitty",
+	  "title": "Melody",
    	"folder": "Blink2",
+   	"text": "this is the donkey program",
     "description": "description.md",
     "image": "bitty_electro.jpg",
-   	"hex": "Blink2.ino.hex",
+   	"hex": "Bitty_Red_Melodic_02_11_2019.ino.leonardo.hex",
    	"sha2_hash": "stuff"
 	},
   {
-    "title": "Red ThaddBASS",
+    "title": "Bass Squares",
     "folder": "Blink3",
+    "text": "this is the theremin program",
     "description": "description.md",
-    "image": "bitty_konga.jpg",
+    "image": "bitty_square_02.jpg",
     "hex": "Bitty_Red_ThaddBASS_2019_09_10_setkey.ino.leonardo.hex",
     "sha2_hash": "stuff"
   },
   {
-    "title": "Red GuitarChord",
+    "title": "Lofi Guitar",
     "folder": "Blink4",
+    "text": "this is the violin program",
     "description": "description.md",
     "image": "bitty_lofi.jpg",
     "hex": "Bitty_Red_GuitarChord_ALT.ino.leonardo.hex",
     "sha2_hash": "stuff"
   },
   {
-    "title": "Red DrumsTrap",
+    "title": "Trap Drums",
     "folder": "Blink5",
+    "text": "this is the cello program\nit blinks for one second",
     "description": "description.md",
     "image": "bitty_theremin.jpg",
     "hex": "Bitty_Red_DrumsTrap_09_16_2019.ino.leonardo.hex",
     "sha2_hash": "stuff"
   }
 ]
+}
