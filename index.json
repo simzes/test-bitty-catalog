@@ -1,27 +1,31 @@
 {
   "version": "1.1",
   "info": "basic.md",
-  "entries":
-[
-  {
-	  "title": "Boom Bap Crunch",
-    "label": "Blink",
-    "text": "this is the elephant program",
-    "description": "description.md",
-    "image": "bitty_Beach.jpg",
-    "binary": "Bitty_Red_DrumsBoomBap_09_16_2019.ino.leonardo.hex",
-    "sha2_hash": "ec5jku3..."
+  "landing": {
+    "title": "info about my application",
+    "description": "some basic info"
   },
-  {
-	  "title": "Melody",
-   	"label": "Blink2",
-   	"text": "this is the donkey program",
-    "description": "description.md",
-    "image": "bitty_electro.jpg",
-   	"binary": "Bitty_Red_Melodic_02_11_2019.ino.leonardo.hex",
-   	"sha2_hash": "stuff"
-	},
-  {
+  "entries":
+  [
+    {
+     "title": "Boom Bap Crunch",
+     "label": "Blink",
+     "text": "this is the elephant program",
+     "description": "description.md",
+     "image": "bitty_Beach.jpg",
+     "binary": "Bitty_Red_DrumsBoomBap_09_16_2019.ino.leonardo.hex",
+     "sha2_hash": "ec5jku3..."
+   },
+   {
+     "title": "Melody",
+     "label": "Blink2",
+     "text": "this is the donkey program",
+     "description": "description.md",
+     "image": "bitty_electro.jpg",
+     "binary": "Bitty_Red_Melodic_02_11_2019.ino.leonardo.hex",
+     "sha2_hash": "stuff"
+   },
+   {
     "title": "Bass Squares",
     "label": "Blink3",
     "text": "this is the theremin program",
