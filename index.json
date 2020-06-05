@@ -1,9 +1,8 @@
 {
   "version": "1.1",
-  "info": "basic.md",
   "landing": {
     "title": "info about my application",
-    "description": "some basic info"
+    "description": "landing.md"
   },
   "upload": {
     "board": "leonardo"
