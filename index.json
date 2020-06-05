@@ -9,46 +9,46 @@
   [
     {
      "title": "Boom Bap Crunch",
-     "label": "Blink",
+     "path": "Blink",
      "text": "this is the elephant program",
      "description": "description.md",
-     "image": "bitty_Beach.jpg",
+     "icon": "bitty_Beach.jpg",
      "binary": "Bitty_Red_DrumsBoomBap_09_16_2019.ino.leonardo.hex",
      "sha2_hash": "ec5jku3..."
    },
    {
      "title": "Melody",
-     "label": "Blink2",
+     "path": "Blink2",
      "text": "this is the donkey program",
      "description": "description.md",
-     "image": "bitty_electro.jpg",
+     "icon": "bitty_electro.jpg",
      "binary": "Bitty_Red_Melodic_02_11_2019.ino.leonardo.hex",
      "sha2_hash": "stuff"
    },
    {
     "title": "Bass Squares",
-    "label": "Blink3",
+    "path": "Blink3",
     "text": "this is the theremin program",
     "description": "description.md",
-    "image": "bitty_square_02.jpg",
+    "icon": "bitty_square_02.jpg",
     "binary": "Bitty_Red_ThaddBASS_2019_09_10_setkey.ino.leonardo.hex",
     "sha2_hash": "stuff"
   },
   {
     "title": "Lofi Guitar",
-    "label": "Blink4",
+    "path": "Blink4",
     "text": "this is the violin program",
     "description": "description.md",
-    "image": "bitty_lofi.jpg",
+    "icon": "bitty_lofi.jpg",
     "binary": "Bitty_Red_GuitarChord_ALT.ino.leonardo.hex",
     "sha2_hash": "stuff"
   },
   {
     "title": "Trap Drums",
-    "label": "Blink5",
+    "path": "Blink5",
     "text": "this is the cello program\nit blinks for one second",
     "description": "description.md",
-    "image": "bitty_theremin.jpg",
+    "icon": "bitty_theremin.jpg",
     "binary": "Bitty_Red_DrumsTrap_09_16_2019.ino.leonardo.hex",
     "sha2_hash": "stuff"
   }
