@@ -1,7 +1,11 @@
 {
-  "version": "1.1",
-  "landing": {
-    "title": "info about my application",
+  "source": {
+    "name": "progcat test catalog",
+    "version": "1.1",
+    "homepage": "github.com/simzes/progcat-test-catalog",
+    "license": "type of license",
+    "author": "simzes",
+    "brief": "stuff that will display if there's no markdown",
     "description": "landing.md"
   },
   "upload": {
